@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dotfiles
 
 Bashs not my thing btw. Just wrote this to procrastinate. Physics exam tomorrow...
@@ -17,3 +18,7 @@ Bashs not my thing btw. Just wrote this to procrastinate. Physics exam tomorrow.
 
 ### Optional
 - Setup autologin to graphical interface as shown in the void documentations: lookup voidlinux Automatic Login to Graphical Environmenti
+=======
+# dotfiles
+My dotfiles for voidlinux
+>>>>>>> be7627e48b52238961ffc7a16cebc21b7a0bc679
